@@ -1,0 +1,4 @@
+    payload:
+    - 'assetdelivery.dlive.nicovideo.jp'
+    - '*.cloudfront.com'
+    - ‘stream.live.eplus.jp’
